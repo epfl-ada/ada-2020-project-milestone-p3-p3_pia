@@ -29,15 +29,27 @@
 6) Proposed timeline:
 Je crois que la timeline doit etre juste pour ce projet et pas pour la replication. Genre plutot en mode chopper les données/preprocess les données, créer les modèles etc.. en mode les étapes du questionnaire ou on estime combien de temps ca prend.
   P3: 27/11: ne pas oublier le form;
-  Timeline:
-    avoir fini sa figure 3B?
-    avoir fini le notebook?
-    avoir fini la data story?
-    avoir updaté le replication report?;
-  P4: 18/12: data story, notebook & updates replication report;
-  P5: 23/12: No poster but video of presentation?;
+Up until 5/12: Every team member finishes the last replication individually.
+
+From 5/12 to 10/12:
+
+* Data Collection and preprocessing of new datasets. : ici on peut dire qui a fait ca
+
+- Data Visualisation - Checkins and airports - Seasonal visualization?
+
+- Data Wrangling - Modify datasets for visualization.
+
+
+
+From 10/12 to 16/12: 
+
+- Define the model for assigning a country to each homes
+
+- Define a model to predict if a checkin represents a travel from home
+- From 16/12 to 18/12:
+- Write the data story
 
 7) Organization within the team: A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
   
-8) Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
+8) Questions for TAs (optional): Add here any questions you have for us related to the proposed project. What do you think about that idea of extending the use of the given datasets? How feasible it is for you?
   
