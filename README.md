@@ -24,7 +24,7 @@
     
 - A dataset with all airports worldwide. The dataset come from an [aviation website](https://ourairports.com/data/). We will use the `airports.csv` datset which contains information about all airports, most importantly their position and the type of the airport. We will need this to better estimate the flown distances between airports. We can use this datset to use only some airports (e.g large and medium and not small and private etc...). The dataset is a CSV file that can we can readily use and it contains the relevent features for our project.
 
-5) Methods:
+5) Methods: We will reuse the methods from the paper to detect the homes for each user. The location of their home can be used to infer their nationality. Once we have this information, we can go over the checkins by user sorted by time and detect when there is long-distance travel. For this we need to fix a threshold of minimum distance. This value would be used to detect when there is a big enough distance between two checkins, such that we can safely consider that the distance between the two checkins has been done by plane. After doing that we can have better estimates of the distance flown by using the airports dataset to find the closest airport to the last check-in before the travel and the first one after the travel. We can then analyze trends based on the nationality and season of travels.
 
 6) Proposed timeline:
 Je crois que la timeline doit etre juste pour ce projet et pas pour la replication. Genre plutot en mode chopper les données/preprocess les données, créer les modèles etc.. en mode les étapes du questionnaire ou on estime combien de temps ca prend.
