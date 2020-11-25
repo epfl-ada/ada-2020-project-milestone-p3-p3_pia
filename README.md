@@ -2,8 +2,7 @@
 
 Should contains:
 
-1) Title:
-  Some ideas:
+1) Title: Some ideas:
     - Who's the worst?
     - Polution and mobility
 
@@ -28,10 +27,9 @@ Should contains:
     avoir fini sa figure 3B?
     avoir fini le notebook?
     avoir fini la data story?
-    avoir updaté le replication report?
+    avoir updaté le replication report?;
   P4: 18/12: data story, notebook & updates replication report;
   P5: 23/12: No poster but video of presentation?;
-
 
 7) Organization within the team: A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
   
