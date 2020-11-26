@@ -5,11 +5,6 @@
 **Analyzing long distance plane travel geographically and seasonally**
 
 **2) Abstract**<br>
-A 150 word description of the project idea, goals, datasets used. What's the motivation behind your project? How do you propose to extend the analysis from the paper? What story would you like to tell, and why? 
-  - project idea: analyse the long distance/plane mobility per country, understand their trends of traveling 
-  - goals: Find which nationality polute the most
-  - motivation: could use our analyse to give personalize advices on who should reduce travelling depending of the country
- 
 The paper we worked on developed the the process of building a model of human mobility dynamics. We propose to study other questions related to the same datasets. In particular, we would like to analyse the way people travel from their home and figuring out which countries see their population polluting the most by using planes. To do so, we propose to add another dataset consisting of airport positions and from the home location found in the first replication, we can infer the nationality of each user. Then we analyze checkins from a particular user over time and determine if the checkin comes from a long distance travel, using also the airport dataset. This will allow us to understand trends of traveling per nationality, in a world where means of traveling are becoming more accessible. Our analysis could be used to give personalized advices on which country should reduce travelling.
 
 **3) Research Questions**<br>
@@ -24,7 +19,6 @@ List the dataset(s) you want to use, and some ideas on how you expect to get, ma
 - The datasets from [Gowalla](https://snap.stanford.edu/data/loc-Gowalla.html) and [Brightkite](https://snap.stanford.edu/data/loc-Brightkite.html) from the paper. We will use only the dataset with the checkins:
     - `loc-gowalla_totalCheckins.txt.gz`
     - `loc-brightkite_totalCheckins.txt.gz`
-    
     
 - A dataset with all airports worldwide. The dataset come from an [aviation website](https://ourairports.com/data/). We will use the `airports.csv` datset which contains information about all airports, most importantly their position and the type of the airport. We will need this to better estimate the flown distances between airports. We can use this datset to use only some airports (e.g large and medium and not small and private etc...). The dataset is a CSV file that can we can readily use and it contains the relevent features for our project.
 
