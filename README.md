@@ -7,8 +7,8 @@
   - project idea: analyse the long distance/plane mobility per country, understand their trends of traveling 
   - goals: Find which nationality polute the most
   - motivation: could use our analyse to give personalize advices on who should reduce travelling depending of the country
-  - how do we want to extend? Not our case
-  - story: ?
+ 
+The paper we worked on developed the the process of building a model of human mobility dynamics. We propose to study other questions related to the same datasets. In particular, we would like to analyse the way people travel from their home and figuring out which countries see their population polluting the most by using planes. To do so, we propose to add another dataset consisting of airport positions and from the home location found in the first replication, we can infer the nationality of each user. Then we analyze checkins from a particular user over time and determine if the checkin comes from a long distance travel, using also the airport dataset. This will allow us to understand trends of traveling per nationality, in a world where means of traveling are becoming more accessible. Our analysis could be used to give personalized advices on which country should reduce travelling.
 
 3) Research Questions: A list of research questions you would like to address during the project.
    1. Which nationalities travel the most long distance by plane?
