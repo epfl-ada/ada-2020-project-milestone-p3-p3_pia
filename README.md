@@ -30,11 +30,11 @@ From 30/11 to 5/12:
 - Data Wrangling - Modify datasets for visualization: Valentin
 
 From 5/12 to 15/12: 
-- Define the model for assigning a country to each home: Alexander
+- Define the model for assigning a country to each home: Valentin
 - Define a model to predict if a checkin represents a travel from home: Maina
 - Using airports to have a better precision: Maina
 - Predictions using regression: Valentin
-- Predictions using a neural network: Valentin
+- Predictions using a neural network: Alexander
 
 From 15/12 to 18/12: (every member of the team)
 - Write the data story
