@@ -25,7 +25,7 @@ List the dataset(s) you want to use, and some ideas on how you expect to get, ma
 **5) Methods**<br>
 We will reuse the methods from the paper to detect the homes for each user. The location of their home can be used to infer their nationality. Once we have this information, we can go over the checkins by user sorted by time and detect when there is long-distance travel. For this we need to fix a threshold of minimum distance. This value would be used to detect when there is a big enough distance between two checkins, such that we can safely consider that the distance between the two checkins has been done by plane. After doing that we can have better estimates of the distance flown by using the airports dataset to find the closest airport to the last check-in before the travel and the first one after the travel. We can then analyze trends based on the nationality and season of travels.
 
-**6) Proposed timeline**<br>
+**6) Proposed timeline / Organization within the team**<br>
 Here is a timeline that will help us keep track of what have to be done and in how much time.<br>
 From 30/11 to 10/12:
 - Data Collection and preprocessing of new datasets. : Qui fait ca
@@ -41,9 +41,6 @@ From 10/12 to 17/12:
 18/12:
 - Submit the milestone
 
-**7) Organization within the team**<br>
-A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
-  
-**8) Questions for TAs (optional)**<br>
+**7) Questions for TAs (optional)**<br>
 Add here any questions you have for us related to the proposed project. What do you think about that idea of extending the use of the given datasets? How feasible it is for you?
   
