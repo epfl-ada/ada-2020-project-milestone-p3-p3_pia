@@ -40,13 +40,12 @@ From 30/11 to 10/12:
 
 - Data Wrangling - Modify datasets for visualization: Qui fait ca
 
-
 From 10/12 to 17/12: 
 - Define the model for assigning a country to each homes
 - Define a model to predict if a checkin represents a travel from home
 
 18/12:
--Submit the milestone
+- Submit the milestone
 
 **7) Organization within the team**<br>
 A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
