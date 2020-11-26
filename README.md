@@ -8,7 +8,6 @@
 The paper we worked on developed the process of building a model of human mobility. We propose to study other questions related to the same datasets. In particular, we would like to analyse the way people travel long distances and figure out whether we can characterize nationalities by travel patterns. From the home location derived from the paper, we can infer the nationality of each user. Then we analyze checkins from a particular user over time and determine if checkins come from a long distance travel. Using a new added airport dataset, we can get better estimates of actual flown distances. This will allow us to understand trends of traveling per nationality. This could be used to predict user home areas based on their long-distance travels over time. Analyzing human mobility patterns in 2010, could give insight about accessiblity to long distance travels across the globe. 
 
 **3) Research Questions**<br>
-A list of research questions you would like to address during the project.
    1. Which nationalities travel the most long distance by plane?
    2. Where do people from different countries travel to the most?
    3. Can we predict user home areas based on travel patterns? 
