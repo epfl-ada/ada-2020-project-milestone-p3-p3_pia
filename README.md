@@ -32,27 +32,21 @@ List the dataset(s) you want to use, and some ideas on how you expect to get, ma
 We will reuse the methods from the paper to detect the homes for each user. The location of their home can be used to infer their nationality. Once we have this information, we can go over the checkins by user sorted by time and detect when there is long-distance travel. For this we need to fix a threshold of minimum distance. This value would be used to detect when there is a big enough distance between two checkins, such that we can safely consider that the distance between the two checkins has been done by plane. After doing that we can have better estimates of the distance flown by using the airports dataset to find the closest airport to the last check-in before the travel and the first one after the travel. We can then analyze trends based on the nationality and season of travels.
 
 **6) Proposed timeline**<br>
-Je crois que la timeline doit etre juste pour ce projet et pas pour la replication. Genre plutot en mode chopper les données/preprocess les données, créer les modèles etc.. en mode les étapes du questionnaire ou on estime combien de temps ca prend.
-  P3: 27/11: ne pas oublier le form;
-Up until 5/12: Every team member finishes the last replication individually.
-
-From 5/12 to 10/12:
-
-* Data Collection and preprocessing of new datasets. : ici on peut dire qui a fait ca
+Here is a timeline that will help us keep track of what have to be done and in how much time.<br>
+From 30/11 to 10/12:
+- Data Collection and preprocessing of new datasets. : Qui fait ca
 
 - Data Visualisation - Checkins and airports - Seasonal visualization?
 
-- Data Wrangling - Modify datasets for visualization.
+- Data Wrangling - Modify datasets for visualization: Qui fait ca
 
 
-
-From 10/12 to 16/12: 
-
+From 10/12 to 17/12: 
 - Define the model for assigning a country to each homes
-
 - Define a model to predict if a checkin represents a travel from home
-- From 16/12 to 18/12:
-- Write the data story
+
+18/12:
+-Submit the milestone
 
 **7) Organization within the team**<br>
 A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.
