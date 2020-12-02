@@ -4,3 +4,8 @@
 # Jupyter Notebook
 *-checkpoint.ipynb
 *.ipynb_checkpoints
+
+#data
+*.gz
+*.csv
+*.pkl
