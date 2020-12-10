@@ -6,7 +6,6 @@
 *.ipynb_checkpoints
 
 #data
-data/*
 *.gz
 *.csv
-*.pkl
+
