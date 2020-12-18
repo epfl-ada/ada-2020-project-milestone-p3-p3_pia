@@ -19,7 +19,7 @@ We aim to:
 - See if there is a conection between friends and visited countries.
 - Check if it is possible to predict home areas based on travel patterns.
 
-**Proposed dataset**<br>
+**Proposed datasets**<br>
 ---
 - The datasets from [Gowalla](https://snap.stanford.edu/data/loc-Gowalla.html) and [Brightkite](https://snap.stanford.edu/data/loc-Brightkite.html) from the paper:
     - `loc-gowalla_totalCheckins.txt.gz`
