@@ -73,4 +73,4 @@ Here is a timeline that will help us keep track of what have to be done and in h
     - `loc-gowalla_edges.txt.gz`
     - `loc-brightkite_edges.txt.gz`
     - `countries.csv`
-    - `airports.csv
+    - `airports.csv`
