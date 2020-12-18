@@ -16,7 +16,7 @@ We aim to:
 - Detect patterns in global air traffic.
 - Describe the network of airports.
 - Find the most visited destinations by country.
-- See if there is a conection between friends and visited countries.
+- See if there is a connection between friends and visited countries.
 - Check if it is possible to predict home areas based on travel patterns.
 
 **Proposed datasets**<br>
