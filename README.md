@@ -7,7 +7,7 @@
 
 **Abstract**<br>
 ---
-The paper we worked on developed the process of building a model of human mobility. We propose to study other questions related to the same datasets. In particular, we would like to analyse the way people travel long distances and figure out whether we can characterize users' home areas by travel patterns. From the home location position derived from the paper, we can infer the country of residence of each user. Then we analyse checkins from a particular user over time and determine if checkins come from a long distance travel. Using a new added airport dataset, we can get better estimates of actual flown distances. This will allow us to understand trends of traveling per country by months. This can be used to predict user home areas based on their long-distance travels over time. Analysing human mobility patterns in 2010, could give insight about accessiblity to long distance travels across the globe.
+The paper we worked on developed the process of building a model of human mobility. We propose to study other questions related to the same datasets. In particular, we would like to analyse the way people travel long distances and figure out whether we can characterize users' home areas by travel patterns. From the home location position derived from the paper, we can infer the country of residence of each user. Then we analyse checkins from a particular user over time and determine if checkins come from a long distance travel. Using a new added airport dataset, we can get better estimates of actual flown distances. This will allow us to understand trends of traveling per country by month. This can be used to predict user home areas based on their long-distance travels over time. Analysing human mobility patterns in 2010, could give insight about accessiblity to long distance travels across the globe.
 
 **Research Questions**
 ---
@@ -54,7 +54,7 @@ Here is a timeline that will help us keep track of what have to be done and in h
 - Data Visualization: 
     - plot the top ten visited countries:  Alexander
     - plot the top ten friendships between countries : Maina 
-    - plot travel patterns over the world by months: Valentin
+    - plot travel patterns over the world by month: Valentin
 - Predictions using regression: Valentin 
 - Predictions using a neural network: Alexander
 
