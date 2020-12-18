@@ -1,6 +1,11 @@
 # MacOS
 *.DS_Store
 
+# Python
+
+__pycache__/*
+data/*
+
 # Jupyter Notebook
 *-checkpoint.ipynb
 *.ipynb_checkpoints
