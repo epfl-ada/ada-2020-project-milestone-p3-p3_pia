@@ -11,7 +11,7 @@ The paper we worked on developed the process of building a model of human mobili
    1. Which countries travel the most long distance by plane?
    2. Where do people from different countries travel to the most?
    3. Where users' friends are based?
-   4. Check if it is possible to predict user home areas based on their long distance travel patterns? 
+   4. Check if it is possible to predict user home areas based on their travel patterns? 
 
 **4) Proposed dataset**<br>
 - The datasets from [Gowalla](https://snap.stanford.edu/data/loc-Gowalla.html) and [Brightkite](https://snap.stanford.edu/data/loc-Brightkite.html) from the paper:
