@@ -62,3 +62,15 @@ Here is a timeline that will help us keep track of what have to be done and in h
 - Write the data story
 - Submit the project
  
+ **Repo structure**
+ ---
+ - extension_analysis.ipynb: Notebook with the extensive analysis
+ - img/: folder with images representing plots runned on colab
+ - `requirements.txt`: dependencies needed to run the notebook
+ - data/: folder that needs to be created and where the data sets stated aboev need to be stored. It contains:
+    - `loc-gowalla_totalCheckins.txt.gz`
+    - `loc-brightkite_totalCheckins.txt.gz`
+    - `loc-gowalla_edges.txt.gz`
+    - `loc-brightkite_edges.txt.gz`
+    - `countries.csv`
+    - `airports.csv
