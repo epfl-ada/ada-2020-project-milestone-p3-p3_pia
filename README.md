@@ -34,8 +34,9 @@ We will reuse the methods from the paper to detect the homes for each user. The 
 Here is a timeline that will help us keep track of what have to be done and in how much time.<br>
 From 30/11 to 5/12:
 - Data Collection and preprocessing of the new dataset (airports): Maina
-- Data Wrangling - Modify datasets for visualization : Valentin & Maina
-                 - Analyse the airports' graph 
+- Data Wrangling: 
+    - Modify datasets for visualization : Valentin & Maina
+    - Analyse the airports' graph 
 - Data Visualization - Checkins and homes: Alexander
 
 
@@ -44,9 +45,10 @@ From 5/12 to 15/12:
 - Define a model to predict if a checkin represents a travel from home: Alexander
 - Using airports to have a better precision: Alexander
 - Define a model for assigning a country to each user of a friendship: Maina
-- Data Visualization: - plot the top ten visited countries:  Alexander
-                      - plot the top ten friendships between countries : Maina 
-                      - plot travel patterns over the world by months: Valentin
+- Data Visualization: 
+    - plot the top ten visited countries:  Alexander
+    - plot the top ten friendships between countries : Maina 
+    - plot travel patterns over the world by months: Valentin
 - Predictions using regression: Valentin 
 - Predictions using a neural network: Alexander
 
