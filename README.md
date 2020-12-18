@@ -3,7 +3,7 @@
 
 **Title**<br>
 ---
-**Analyzing plane travels and predicting people's home area based on their flight patterns**
+**Analysing plane travels and predicting people's home area based on their flight patterns**
 
 **Abstract**<br>
 ---
