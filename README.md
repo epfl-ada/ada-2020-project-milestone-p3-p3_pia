@@ -1,7 +1,8 @@
 # ada-2020-project-milestone-p3-p3_pia
 
 
-**1) Title**<br>
+**Title**<br>
+---
 **Analyzing plane travels and predicting people's home area based on their flight patterns**
 
 **2) Abstract**<br>
