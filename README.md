@@ -38,7 +38,7 @@ We will reuse the methods from the paper to detect the homes for each user. The 
 **Proposed timeline / Organization within the team**<br>
 ---
 Here is a timeline that will help us keep track of what have to be done and in how much time.<br>
-From 30/11 to 5/12:
+<u>From 30/11 to 5/12:</u>
 - Data Collection and preprocessing of the new dataset (airports): Maina
 - Data Wrangling: Valentin & Maina
     - Modify datasets for visualization 
@@ -46,7 +46,7 @@ From 30/11 to 5/12:
 - Data Visualization - Checkins and homes: Alexander
 
 
-From 5/12 to 15/12: 
+<u>From 5/12 to 15/12:</u>
 - Define the model for assigning a country to each home: Valentin
 - Define a model to predict if a checkin represents a travel from home: Alexander
 - Using airports to have a better precision: Alexander
@@ -58,7 +58,7 @@ From 5/12 to 15/12:
 - Predictions using regression: Valentin 
 - Predictions using a neural network: Alexander
 
-From 15/12 to 18/12: (the three of us)
+<u>From 15/12 to 18/12:</u> (the three of us)
 - Write the data story
 - Submit the project
  
