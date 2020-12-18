@@ -34,8 +34,8 @@ We will reuse the methods from the paper to detect the homes for each user. The 
 Here is a timeline that will help us keep track of what have to be done and in how much time.<br>
 From 30/11 to 5/12:
 - Data Collection and preprocessing of the new dataset (airports): Maina
-- Data Wrangling: 
-    - Modify datasets for visualization : Valentin & Maina
+- Data Wrangling: Valentin & Maina
+    - Modify datasets for visualization 
     - Analyse the airports' graph 
 - Data Visualization - Checkins and homes: Alexander
 
