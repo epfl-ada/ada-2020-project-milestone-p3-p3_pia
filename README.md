@@ -64,10 +64,10 @@ Here is a timeline that will help us keep track of what have to be done and in h
  
  **Repo structure**
  ---
- - extension_analysis.ipynb: Notebook with the extensive analysis
- - img/: folder with images representing plots runned on colab
+ - `extension_analysis.ipynb` : Notebook with the extension analysis
+ - `img/`: folder with images representing plots runned on colab and shown in the notebook
  - `requirements.txt`: dependencies needed to run the notebook
- - data/: folder that needs to be created and where the data sets stated aboev need to be stored. It contains:
+ - `data/` : folder that needs to be created and where the datasets stated above need to be stored. It needs to contain contains:
     - `loc-gowalla_totalCheckins.txt.gz`
     - `loc-brightkite_totalCheckins.txt.gz`
     - `loc-gowalla_edges.txt.gz`
